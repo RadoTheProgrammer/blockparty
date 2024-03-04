@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "rrblockparty"
+version = "0.1.0"
+description = "The Block Party game"
+authors = ["RadoTheProgrammer <rado@arazakar.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mcpi = "^1.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
