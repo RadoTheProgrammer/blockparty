@@ -8,7 +8,7 @@ A mcpi project game
 pip install -e .
 ```
 
-You have to run a minecraft server configured with RaspberryJuice
+You have to run a minecraft server configured with RaspberryJuice, see [mcserver](https://github.com/RadoTheProgrammer/mcserver)
 
 ## Usage
 
